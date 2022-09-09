@@ -66,6 +66,7 @@ ul {
     color: #E5E7EB;
     font-weight: bold;
     transition: 0.5s;
+    position: relative;
 }
 
 .HeaderSignUpBtn:hover {
@@ -77,6 +78,7 @@ ul {
     content: " \00bb";
     font-size: 10px;
     opacity: 0;
+    position: absolute;
 }
 
 .bomfyCat {
