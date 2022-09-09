@@ -10,7 +10,6 @@ body {
     display: flex;
     flex-direction: column;
     background-color: #1f2937;
-    
 }
 
 .logoLinks {
@@ -34,12 +33,17 @@ ul {
     display: flex;
     justify-content: center;
     margin-bottom: 100px;
+    align-items: center;
 }
 
 .HeaderDescriptionTitle {
     display: flex;
     flex-direction: column;
     width: 400px;
+}
+
+.title {
+    margin: 0px;
 }
 
 .CatImage {
