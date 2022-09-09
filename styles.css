@@ -74,6 +74,7 @@ ul {
     font-size: 10px;
     opacity: 0;
     position: absolute;
+    transition: 0.5s;
 }
 
 .HeaderSignUpBtn:hover {
@@ -83,6 +84,7 @@ ul {
 
 .HeaderSignUpBtn:hover span:after {
     opacity: 1;
+    transition: 0.5s;
 }
 
 .bomfyCat {
