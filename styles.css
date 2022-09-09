@@ -82,7 +82,7 @@ ul {
 }
 
 .HeaderSignUpBtn:hover span:after {
-
+    opacity: 1;
 }
 
 .bomfyCat {
