@@ -9,6 +9,6 @@ body {
     flex-direction: column;
 }
 
-img {
+.BomfyLogo>img {
     border-radius: 50%;
 }
