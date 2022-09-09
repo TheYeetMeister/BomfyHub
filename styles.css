@@ -9,7 +9,7 @@ body {
     flex-direction: column;
 }
 
-.logoLink {
+.logoLinks {
     display: flex;
     flex-direction: row;
 }
