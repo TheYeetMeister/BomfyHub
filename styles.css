@@ -73,6 +73,12 @@ ul {
     padding-right: 20px;
 }
 
+.HeaderSignUpBtn span:after {
+    content: " \00bb";
+    font-size: 10px;
+    opacity: 0;
+}
+
 .bomfyCat {
     border-radius: 10%;
 }
