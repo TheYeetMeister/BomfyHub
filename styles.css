@@ -61,6 +61,8 @@ ul {
     width: 90px;
     height: 33px;
     border-radius: 20%;
+    border: none;
+    background-color: #3882F6;
 }
 
 .bomfyCat {
