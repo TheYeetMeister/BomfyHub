@@ -60,7 +60,7 @@ ul {
 .HeaderSignUpBtn {
     width: 90px;
     height: 33px;
-    border-radius: 17%;
+    border-radius: 9px 9px;
     border: none;
     background-color: #3882F6;
     color: #E5E7EB;
