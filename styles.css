@@ -67,6 +67,12 @@ ul {
     font-weight: bold;
 }
 
+.HeaderSignUpBtn:hover {
+    transition: 0.5s;
+    padding-right: 20px;
+    content: "\00bb";
+}
+
 .bomfyCat {
     border-radius: 10%;
 }
