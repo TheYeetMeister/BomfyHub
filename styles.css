@@ -37,7 +37,6 @@ ul {
     align-items: center;
     justify-content: center;
     gap: 60px;
-    color: #fff;
 }
 
 .HeaderDescriptionTitle {
@@ -57,3 +56,4 @@ ul {
 .bomfyCat {
     border-radius: 10%;
 }
+
