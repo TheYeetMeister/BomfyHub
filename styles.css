@@ -2,12 +2,15 @@ body {
     display: flex;
     flex-direction: column;
     flex:1 1 auto;
+    padding: 0px;
+    margin: 0px;
 }
 
 .header{
     display: flex;
     flex-direction: column;
     background-color: #1f2937;
+    
 }
 
 .logoLinks {
