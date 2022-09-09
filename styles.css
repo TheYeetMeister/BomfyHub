@@ -16,8 +16,8 @@ body {
     padding: 16px 120px;
 }
 
-.ul {
-    text-decoration: none;
+ul {
+    list-style: none;
 }
 
 .BomfyLogo>img {
