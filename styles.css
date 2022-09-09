@@ -10,7 +10,8 @@ body {
 }
 
 .logoLink {
-
+    display: flex;
+    flex-direction: row;
 }
 
 .BomfyLogo>img {
