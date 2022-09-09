@@ -35,5 +35,6 @@ ul {
 }
 
 .HeaderDescriptionTitle {
-    
+    display: flex;
+    flex-direction: column;
 }
