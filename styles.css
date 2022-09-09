@@ -7,6 +7,7 @@ body {
 .header{
     display: flex;
     flex-direction: column;
+    background-color: #1f2937;
 }
 
 .logoLinks {
