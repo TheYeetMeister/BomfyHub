@@ -165,5 +165,8 @@ ul {
 
 .JoinFooterBlock {
     display: flex;
-    justify-content: center;
+}
+
+.JoinFooterContainer {
+    display: flex;
 }
