@@ -154,4 +154,5 @@ ul {
 
 .QuoteContainer>.QuoteAndAuthor>.Author {
     align-self: flex-end;
+    margin-right: 40px;
 }
