@@ -96,6 +96,7 @@ ul {
 .FoundersHeading {
     display: flex;
     justify-content: center;
+    font-size: 36px;
 }
 
 .AllFoundersContainer {
