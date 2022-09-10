@@ -93,6 +93,10 @@ ul {
     border-radius: 10%;
 }
 
+.FoundersHeading {
+    
+}
+
 .AllFoundersContainer {
     display: flex;
     flex-flow: row wrap;
