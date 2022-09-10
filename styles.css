@@ -97,3 +97,8 @@ ul {
     display: flex;
     flex-flow: row wrap;
 }
+
+.AllFoundersContainer>.Container>img {
+    width: 289px;
+    height: 289px;
+}
