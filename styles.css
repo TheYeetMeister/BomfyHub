@@ -94,7 +94,8 @@ ul {
 }
 
 .FoundersHeading {
-    
+    display: flex;
+    justify-content: center;
 }
 
 .AllFoundersContainer {
