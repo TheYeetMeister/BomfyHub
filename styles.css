@@ -187,3 +187,7 @@ ul {
     font-size: 24px;
     margin: 0px;
 }
+
+.JoinText>.BlockText {
+    margin: 0px;
+}
