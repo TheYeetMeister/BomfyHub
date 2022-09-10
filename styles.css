@@ -106,3 +106,7 @@ ul {
 .AllFoundersContainer>.Container {
     width: 289px;
 }
+
+.AllFoundersContainer>.Container>p {
+    
+}
