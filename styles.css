@@ -139,17 +139,20 @@ ul {
     background-color: #E5E7EB;
     padding: 150px;
     align-items: center;
+    flex: 0;
 }
 
 .QuoteContainer>.QuoteAndAuthor {
     display: flex;
     flex-direction: column;
+    flex: 0;
 }
 
 .QuoteContainer>.QuoteAndAuthor>.Quote {
     font-size: 36px;
     color: #1F2937;
-    width: 700px;
+    max-width: 700px;
+    flex: 0;
 }
 
 .QuoteContainer>.QuoteAndAuthor>.Author {
