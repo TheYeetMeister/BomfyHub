@@ -104,6 +104,8 @@ ul {
 }
 
 .AllFoundersContainer>.Container {
+    display: flex;
+    flex-direction: column;
     width: 289px;
 }
 
