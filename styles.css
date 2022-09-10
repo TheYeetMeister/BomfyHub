@@ -208,3 +208,7 @@ ul {
     position: relative;
     border-style: solid;
 }
+
+.JoinFooterBlock>button>span:after {
+    
+}
