@@ -96,6 +96,8 @@ ul {
 .AllFoundersContainer {
     display: flex;
     flex-flow: row wrap;
+    display: flex;
+    justify-content: center;
 }
 
 .AllFoundersContainer>.Container>img {
