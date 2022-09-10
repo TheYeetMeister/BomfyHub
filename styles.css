@@ -69,6 +69,7 @@ ul {
     position: relative;
 }
 
+/*this is to display the >> sign after the sign up button*/
 .HeaderSignUpBtn span:after {
     content: " \00bb";
     font-size: 30px;
@@ -79,6 +80,8 @@ ul {
     transition: 0.5s;
 }
 
+
+/*The two properties below are to change the button when a mouse is hovered over it*/
 .HeaderSignUpBtn:hover {
     transition: 0.5s;
     padding-right: 20px;
