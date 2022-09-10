@@ -152,6 +152,6 @@ ul {
     width: 700px;
 }
 
-.QuoteContainer>.QuoteAndAuthor>.Quote {
-
+.QuoteContainer>.QuoteAndAuthor>.Author {
+    align-self: flex-end;
 }
