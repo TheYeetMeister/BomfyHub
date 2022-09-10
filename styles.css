@@ -169,4 +169,5 @@ ul {
 
 .JoinFooterContainer {
     display: flex;
+    justify-content: center;
 }
