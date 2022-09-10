@@ -28,6 +28,10 @@ ul {
     color: #E5E7EB;
 }
 
+a {
+    text-decoration: none;
+}
+
 .BomfyLogo>img {
     border-radius: 50%;
 }
