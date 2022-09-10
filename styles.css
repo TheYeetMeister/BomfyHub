@@ -166,6 +166,7 @@ ul {
 .JoinFooterBlock {
     display: flex;
     max-width: 800px;
+    background-color: #3882F6;
 }
 
 .JoinFooterContainer {
