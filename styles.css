@@ -102,3 +102,7 @@ ul {
     width: 289px;
     height: 289px;
 }
+
+.AllFoundersContainer>.Container {
+    width: 289px;
+}
