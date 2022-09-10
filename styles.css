@@ -220,5 +220,6 @@ ul {
 }
 
 .JoinFooterBlock>button:hover {
-    
+    transition: 0.5s;
+    padding-right: 20px;
 }
