@@ -136,3 +136,7 @@ ul {
 .QuoteContainer {
     background-color: #E5E7EB;
 }
+
+.QuoteContainer>.Quote {
+    
+}
