@@ -135,6 +135,7 @@ ul {
 
 .QuoteContainer {
     background-color: #E5E7EB;
+    padding: 150px;
 }
 
 .QuoteContainer>.Quote {
