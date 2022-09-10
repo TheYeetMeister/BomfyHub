@@ -225,5 +225,6 @@ ul {
 }
 
 .JoinFooterBlock>button:hover>span:after {
-
+    opacity: 1;
+    transition: 0.5s;
 }
