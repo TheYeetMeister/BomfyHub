@@ -173,6 +173,7 @@ ul {
     margin-bottom: 100px;
     padding: 10px 90px;
     justify-content: space-between;
+    align-items: center;
 }
 
 .JoinFooterContainer {
