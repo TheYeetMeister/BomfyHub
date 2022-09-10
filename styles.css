@@ -141,7 +141,7 @@ ul {
     align-items: center;
 }
 
-.QuoteContainer>.Quote {
+.QuoteContainer>.QuoteAndAuthor>.Quote {
     font-size: 36px;
     color: #1F2937;
     width: 700px;
