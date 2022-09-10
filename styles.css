@@ -182,3 +182,7 @@ ul {
 .JoinText {
     color:#E5E7EB;
 }
+
+.JoinText>.BlockTitle {
+    font-size: 24px;
+}
