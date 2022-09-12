@@ -250,4 +250,5 @@ a {
 
 .OddCredit {
     padding: 100px;
+    display:flex;
 }
