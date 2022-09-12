@@ -264,3 +264,7 @@ a {
 .CreditDescription>p {
     text-align: center;
 }
+
+.CreditDescription>h3 {
+    text-align: center;
+}
