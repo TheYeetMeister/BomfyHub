@@ -260,3 +260,7 @@ a {
     flex-direction: column;
     max-width: 300px;
 }
+
+.CreditDescription>p {
+    text-align: center;
+}
