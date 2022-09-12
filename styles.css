@@ -255,6 +255,10 @@ ul a {
     justify-content: space-around;
 }
 
+.EvenCredit {
+    
+}
+
 .CreditDescription {
     display: flex;
     flex-direction: column;
