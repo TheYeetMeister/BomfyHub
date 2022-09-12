@@ -248,7 +248,7 @@ ul a {
 
 /* Css below here pertains specifically towards the credits page of the website*/
 
-.OddImage {
+.OddCredit>img {
     max-width: 200px;
     height: auto;
 }
