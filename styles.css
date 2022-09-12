@@ -248,6 +248,11 @@ ul a {
 
 /* Css below here pertains specifically towards the credits page of the website*/
 
+.OddImage {
+    max-width: 200px;
+    height: auto;
+}
+
 .OddCredit {
     padding: 100px 0px;
     display:flex;
