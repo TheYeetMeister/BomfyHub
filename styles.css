@@ -255,6 +255,11 @@ ul a {
     justify-content: space-around;
 }
 
+.EvenCredit>img {
+    max-width: 200px;
+    height: auto;
+}
+
 .EvenCredit {
     padding: 100px 0px;
     display:flex;
