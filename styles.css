@@ -256,5 +256,6 @@ a {
 }
 
 .CreditDescription {
-    
+    display: flex;
+    flex-direction: column;
 }
